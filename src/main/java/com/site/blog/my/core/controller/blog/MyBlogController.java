@@ -25,7 +25,7 @@ import java.util.Map;
 public class MyBlogController {
 
 //    public static String theme = "default";
-//    public static String theme = "yummy-jekyll";
+    //public static String theme = "yummy-jekyll";
     public static String theme = "amaze";
     @Resource
     private BlogService blogService;
